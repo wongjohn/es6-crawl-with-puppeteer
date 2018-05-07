@@ -1,0 +1,23 @@
+{
+  "name": "es6-crawl-with-puppeteer",
+  "version": "1.0.0",
+  "description": "ES6 Crawl with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wongjohn/es6-crawl-with-puppeteer.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Crawl"
+  ],
+  "author": "WangJohn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wongjohn/es6-crawl-with-puppeteer/issues"
+  },
+  "homepage": "https://github.com/wongjohn/es6-crawl-with-puppeteer#readme"
+}
