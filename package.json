@@ -4,7 +4,8 @@
   "description": "ES6 Crawl with Puppeteer",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "start": "node index.js",
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/wongjohn/es6-crawl-with-puppeteer/issues"
   },
-  "homepage": "https://github.com/wongjohn/es6-crawl-with-puppeteer#readme"
+  "homepage": "https://github.com/wongjohn/es6-crawl-with-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
 }
